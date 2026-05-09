@@ -1,4 +1,4 @@
-<img width="387" height="851" alt="picture8" src="https://github.com/user-attachments/assets/57247999-ec6a-4e4f-bc95-a20dc9308afa" /><img width="385" height="822" alt="picture3" src="https://github.com/user-attachments/assets/587c6a1c-9ec2-4d83-8324-886bbbe1538b" />🍴 D&S Restaurant - Food Ordering App
+🍴 D&S Restaurant - Food Ordering App
 
 A simple and user-friendly Android Food Ordering Application developed using Java in Android Studio for the subject Practical for Mobile Application Development.
 
