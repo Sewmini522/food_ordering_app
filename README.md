@@ -1,4 +1,4 @@
-🍴 D&S Restaurant - Food Ordering App
+**🍴 D&S Restaurant - Food Ordering App**
 
 A simple and user-friendly Android Food Ordering Application developed using Java in Android Studio for the subject Practical for Mobile Application Development.
 
@@ -8,47 +8,76 @@ This application allows customers to select food items, customize spicy levels, 
 ✨ Features
 
 ✅ Welcome page with restaurant branding
+
 ✅ Food selection using RadioButtons
+
 ✅ Spicy level selection using SeekBar
+
 ✅ Payment method selection (Cash / Card)
+
 ✅ Delivery option with distance calculation
+
 ✅ Automatic delivery charge calculation
+
 ✅ Order summary page
+
 ✅ About Us page with restaurant details
+
 ✅ Multiple activity navigation using Intents
+
 ✅ Attractive UI with gradient background and images
 
 
 📱 Screens Included
+
 Welcome Page
+
 Food Selection Page
+
 Customer & Delivery Details Page
+
 Order Summary Page
+
 About Us Page
 
 
 🛠 Technologies Used
+
 Java
+
 Android Studio
+
 XML
+
 Android SDK
 
 
 🚀 How the App Works
+
 1.User opens the app from the Welcome Page.
+
 2.User clicks Order.
+
 3.User selects: Food Item  , Spicy Level  ,  Payment Method
+
 4.User enters:  Customer Name , Delivery Address (if delivery selected)
+
 5.Delivery charge is calculated using distance: Rs.100 per KM
+
 6.Final order summary is displayed.
+
 7.User can navigate back to the home page.
 
 
 📂 Project Structure
 MainActivity.java          -> Welcome Page
+
 MainActivity2.java         -> Food Selection Page
+
 MainActivity3.java         -> Delivery Details Page
+
 MainActivity4.java         -> Order Summary Page
+
 MainActivity5.java         -> About Us Page
 
 
@@ -74,11 +103,19 @@ MainActivity5.java         -> About Us Page
 
 Through this project, I learned:
 
+
 Android Activity Navigation
+
 Using Intents
+
 Working with RadioButtons
+
 Using SeekBar
+
 Handling User Inputs
+
 UI Designing with XML
+
 Event Handling in Java
+
 Creating Multi-Page Android Applications
